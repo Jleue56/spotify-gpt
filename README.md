@@ -25,6 +25,11 @@ To use this script, follow these steps:
     pip install -r requirements.txt
     ```
 
+    alternatively, you could simply:
+    ```bash
+    pip install spotipy openai python_dotenv
+    ```
+
 ### Setting Up Environment Variables
 
 Before running the script, you need to set up environment variables. Create a `.env` file in the root directory of the project and add the following key-value pairs:<br>
